@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "email": "capricorn_26@mail.ru",
+      "password": "$2a$10$k9RXeX0aU7WJ06nJx4gldOwmxtfkXrGpj5ITYPbBz4MKy60l3PMaK",
+      "id": 1
+    }
+  ],
+  "userContacts": [
+    {
+      "contacts": [
+        {
+          "id": "2",
+          "name": "Иван Иванов Иванович",
+          "context": "Работа",
+          "phone": "89231234569"
+        },
+        {
+          "id": "DinjbGBfYhhxngxUQnR6f",
+          "name": "Вася Пупкин",
+          "context": "",
+          "phone": "4658"
+        },
+        {
+          "id": "Nxs0y205OF9rOAeXDVC8v",
+          "name": "Бывший",
+          "context": "",
+          "phone": "684"
+        },
+        {
+          "id": "4qz_qhLmdfxvbkRbziexD",
+          "name": "Вася",
+          "context": "",
+          "phone": "64"
+        },
+        {
+          "id": "gkx7Km-xyMROAfnO1OvlO",
+          "name": "Вася Пупкин",
+          "context": "",
+          "phone": "+7 923 128 61 50"
+        }
+      ],
+      "id": 1
+    }
+  ]
+}
